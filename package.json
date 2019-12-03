@@ -1,0 +1,14 @@
+{
+  "name": "encrypt_demo",
+  "version": "1.0.0",
+  "description": "a demo used to encrypt a floder or file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wilson",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
